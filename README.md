@@ -17,6 +17,7 @@ Build Tool: Gradle
 Browser: Google Chrome
 
 📁 Project Structure
+
 <img width="721" height="424" alt="image" src="https://github.com/user-attachments/assets/852780b7-d942-4e51-93f3-cd7b4ebd0b3a" />
 
 🧪 Purpose:
