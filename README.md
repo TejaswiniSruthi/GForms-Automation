@@ -16,22 +16,7 @@ Automation Tool: Selenium WebDriver
 Build Tool: Gradle
 Browser: Google Chrome
 
-📦 project-root
- ┣ 📂 src
- ┃ ┣ 📂 main
- ┃ ┃ ┗ 📂 java
- ┃ ┃ ┃ ┗ 📂 demo
- ┃ ┃ ┃ ┃ ┗ 📜 App.java
- ┃ ┣ 📂 test
- ┃ ┃ ┣ 📂 java
- ┃ ┃ ┃ ┗ 📂 demo
- ┃ ┃ ┃ ┃ ┣ 📂 wrappers
- ┃ ┃ ┃ ┃ ┃ ┗ 📜 Wrappers.java   -> Common reusable methods (check for duplicates)
- ┃ ┃ ┃ ┃ ┗ 📜 TestCases.java    -> Test steps automated here
- ┃ ┃ ┗ 📂 resources
- ┣ 📜 .gitignore
- ┣ 📜 assessment_result.json
- ┗ 📜 build.gradle
+<img width="721" height="424" alt="image" src="https://github.com/user-attachments/assets/852780b7-d942-4e51-93f3-cd7b4ebd0b3a" />
 
 🧪 Purpose:
 This project automates Google Form submissions and demonstrates QA test automation practices including element interactions, waits, data handling, and structured test design.
